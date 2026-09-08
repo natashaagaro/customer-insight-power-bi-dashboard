@@ -17,4 +17,4 @@ This project focuses on transforming raw transactional data into an executive-fa
 
 ## Files in this Repository
 * `dashboard.pbix`: The source Power BI file containing the data model and visual layouts.
-* `assets/`: Screenshots of the live dashboard views.
+* `assets`: Screenshots of the live dashboard views.
